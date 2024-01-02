@@ -7,7 +7,6 @@ Week 03, the 1st Python project. Inflation Calculator.
      from the values the user entered.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
 """
 def main():
     # to initialize the flag key
