@@ -11,8 +11,6 @@ and routes between cities. The program will process distance information from a 
   it prints out different info.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral_n70@yahoo.com
 """
 
 # what separates the departure city, destination city and the distance in the input file, each line
